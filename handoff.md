@@ -26,4 +26,4 @@
 ## 🕐 最後更新
 - 時間：2026-11-18
 - 更新者：Claude Code @ PC10972（worktree 分支 claude/sensitive-receptor-image-upload-e8d90b）
-- Git push：✅ PR #2（量測距離帶入＋檔案分頁）、PR #3（JSON 專案檔＋登入視窗）、PR #4（檔案功能鍵改左側欄）、PR #5（側欄靠左＋刪多餘說明）、PR #6（新增「輸出」分頁占位）皆已於 2026-11-19 合回 main；GitHub Pages 會自動更新
+- Git push：✅ PR #2（量測距離帶入＋檔案分頁）、PR #3（JSON 專案檔＋登入視窗）、PR #4（檔案功能鍵改左側欄）、PR #5（側欄靠左＋刪多餘說明）、PR #6（新增「輸出」分頁占位）、PR #7（輸出分頁搬入摘要表＋匯出 Excel）皆已於 2026-11-19 合回 main；GitHub Pages 會自動更新
